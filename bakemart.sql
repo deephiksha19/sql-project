@@ -1,8 +1,8 @@
 -- ======================================
 -- DATABASE CREATION
 -- ======================================
-CREATE DATABASE bakery_db;
-USE bakery_db;
+CREATE DATABASE bakemart;
+USE bakemart;
 
 -- ======================================
 -- CUSTOMER TABLE
@@ -68,7 +68,7 @@ INSERT INTO Products VALUES
 (207, 'Vanilla Donut', 'Donut', 75),
 (208, 'Chocolate Cookie', 'Cookie', 50),
 (209, 'Butterscotch Bread', 'Bread', 65),
-(210, 'ChocoTruffle', 'Cake', 600);
+(210, 'Blueberry', 'Cake', 600);
 
 -- ======================================
 -- ORDER ITEMS TABLE
