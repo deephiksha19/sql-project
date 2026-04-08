@@ -14,3 +14,6 @@ This project is a bakery order management system using MySQL.
 - Calculates total price
 - Uses JOIN queries
 - helps to find UPI and Cash payments
+
+## Output
+![Output](output.png)
